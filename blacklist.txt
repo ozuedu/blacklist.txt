@@ -3992,3 +3992,5 @@
 93.115.79.251
 
 104.21.56.86 # audit otomasyon
+188.114.97.4 # audit otomasyon
+188.114.96.4 # audit otomasyon
