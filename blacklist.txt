@@ -4315,3 +4315,4 @@
 20.197.195.24 # Gozcu AI ile bloklandi - 2026-07-21 05:17 (mail:10.220.0.54)
 62.164.177.222 # Gozcu AI ile bloklandi - 2026-07-21 05:25 (operator:duzeltme-webshell-tarama)
 20.220.150.193 # Gozcu AI ile bloklandi - 2026-07-22 05:32 (mail:10.220.0.54)
+20.206.105.145 # Gozcu AI ile bloklandi - 2026-07-22 05:32 (mail:10.220.0.54)
