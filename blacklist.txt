@@ -5731,3 +5731,4 @@
 223.188.128.137 # sierra encore
 223.205.231.176 # sierra encore
 223.237.189.209 # sierra encore
+89.201.7.169 # Gozcu AI ile bloklandi - 2026-09-03 07:31 (mail:10.220.0.67)
