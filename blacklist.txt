@@ -5745,3 +5745,4 @@
 35.237.66.208 # Gozcu AI ile bloklandi - 2026-09-09 07:58 (mail:10.220.0.67)
 34.104.177.195 # Gozcu AI ile bloklandi - 2026-09-09 07:58 (mail:10.220.0.67)
 35.180.243.145 # Gozcu AI ile bloklandi - 2026-09-09 07:58 (mail:10.220.0.67)
+34.181.211.62 # Gozcu AI ile bloklandi - 2026-09-10 05:28 (mail:10.220.0.67)
