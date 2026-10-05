@@ -5905,3 +5905,4 @@
 20.214.170.255 # Gozcu AI ile bloklandi - 2026-10-04 18:00 (auto)
 45.138.12.30 # Gozcu AI ile bloklandi - 2026-10-05 04:00 (auto)
 223.123.65.54 # Gozcu AI ile bloklandi - 2026-10-05 08:10 (auto)
+20.249.5.100 # Gozcu AI ile bloklandi - 2026-10-05 15:10 (auto)
