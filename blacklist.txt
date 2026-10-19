@@ -6010,3 +6010,4 @@
 89.163.146.141 # Gozcu AI ile bloklandi - 2026-10-19 15:20 (auto)
 190.122.240.80 # Gozcu AI ile bloklandi - 2026-10-19 17:30 (auto)
 102.23.122.251 # Gozcu AI ile bloklandi - 2026-10-19 19:50 (auto)
+34.52.133.111 # Gozcu AI ile bloklandi - 2026-10-19 20:20 (auto)
