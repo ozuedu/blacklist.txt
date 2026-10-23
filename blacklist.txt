@@ -6020,3 +6020,4 @@
 103.241.205.82 # Gozcu AI ile bloklandi - 2026-10-20 10:50 (auto)
 34.38.242.58 # Gozcu AI ile bloklandi - 2026-10-22 22:20 (auto)
 34.140.179.23 # Gozcu AI ile bloklandi - 2026-10-22 23:30 (auto)
+34.79.59.9 # Gozcu AI ile bloklandi - 2026-10-23 02:30 (auto)
