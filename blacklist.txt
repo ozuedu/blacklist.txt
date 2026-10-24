@@ -6021,3 +6021,4 @@
 34.38.242.58 # Gozcu AI ile bloklandi - 2026-10-22 22:20 (auto)
 34.140.179.23 # Gozcu AI ile bloklandi - 2026-10-22 23:30 (auto)
 34.79.59.9 # Gozcu AI ile bloklandi - 2026-10-23 02:30 (auto)
+34.18.3.71 # Gozcu AI ile bloklandi - 2026-10-24 00:40 (auto)
