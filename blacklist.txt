@@ -6156,3 +6156,4 @@
 194.187.250.135 # Gozcu AI ile bloklandi - 2026-11-23 10:10 (auto)
 194.59.251.38 # Gozcu AI ile bloklandi - 2026-11-23 15:00 (auto)
 103.42.4.219 # Gozcu AI ile bloklandi - 2026-11-23 19:20 (auto)
+20.98.30.127 # Gozcu AI ile bloklandi - 2026-11-24 01:20 (auto)
